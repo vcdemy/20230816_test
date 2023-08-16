@@ -1,32 +1,28 @@
-Package              Version
--------------------- ---------
-ansi2html            1.8.0
-blinker              1.6.2
-certifi              2023.7.22
-charset-normalizer   3.2.0
-click                8.1.6
-colorama             0.4.6
-dash                 2.12.0
-dash-core-components 2.0.0
-dash-html-components 2.0.0
-dash-table           5.0.0
-Flask                2.2.5
-gunicorn             21.2.0
-idna                 3.4
-importlib-metadata   6.8.0
-itsdangerous         2.1.2
-Jinja2               3.1.2
-MarkupSafe           2.1.3
-nest-asyncio         1.5.7
-packaging            23.1
-pip                  20.2.3
-plotly               5.16.0
-requests             2.31.0
-retrying             1.3.4
-setuptools           49.2.1
-six                  1.16.0
-tenacity             8.2.3
-typing-extensions    4.7.1
-urllib3              2.0.4
-Werkzeug             2.2.3
-zipp                 3.16.2
+ansi2html
+blinker
+certifi
+charset-normalizer
+click
+colorama
+dash
+dash-core-components
+dash-html-components
+dash-table
+Flask
+gunicorn
+idna
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+nest-asyncio
+packaging
+plotly
+requests
+retrying
+six
+tenacity
+typing-extensions
+urllib3
+Werkzeug
+zipp
