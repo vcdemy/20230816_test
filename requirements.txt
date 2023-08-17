@@ -26,3 +26,4 @@ typing-extensions
 urllib3
 Werkzeug
 zipp
+gradio
