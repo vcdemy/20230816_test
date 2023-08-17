@@ -27,3 +27,5 @@ urllib3
 Werkzeug
 zipp
 gradio
+fastapi
+uvicorn
