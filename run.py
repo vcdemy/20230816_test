@@ -8,7 +8,7 @@ async def root():
     return "Gradio app is running at /gradio", 200
 
 def hello(name):
-    return f"Hello {name}!"
+    return name
 
 demo = gr.Interface(hello, 'text', 'text')
 
